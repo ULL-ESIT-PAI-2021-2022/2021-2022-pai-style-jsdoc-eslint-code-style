@@ -22,3 +22,5 @@ https://stackoverflow.com/questions/41715994/how-to-document-ecma6-classes-with-
 
 https://www.geeksforgeeks.org/documentation-comments-in-jsdoc/ (02.03.2022)
 
+https://github.com/google/eslint-config-google (02.03.2022)
+
