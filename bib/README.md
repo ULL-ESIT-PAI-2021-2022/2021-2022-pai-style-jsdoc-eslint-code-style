@@ -12,13 +12,13 @@ https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here
 
 https://www.w3schools.com/js/js_best_practices.asp (02.03.2022)
 
-https://javascript.info/coding-style (02.03.2022)
+https://javascript.info/coding-style (02.03.2022)
 
-https://codezen.rishimohan.me (02.03.2022)
+https://codezen.rishimohan.me (02.03.2022)
 
-https://jsdoc.app (02.03.2022)
+https://jsdoc.app (02.03.2022)
 
-https://stackoverflow.com/questions/41715994/how-to-document-ecma6-classes-with-jsdoc (02.03.2022)
+https://stackoverflow.com/questions/41715994/how-to-document-ecma6-classes-with-jsdoc (02.03.2022)
 
-https://www.geeksforgeeks.org/documentation-comments-in-jsdoc/ (02.03.2022)
+https://www.geeksforgeeks.org/documentation-comments-in-jsdoc/ (02.03.2022)
 
