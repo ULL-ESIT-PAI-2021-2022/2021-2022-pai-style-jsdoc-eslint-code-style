@@ -1,5 +1,4 @@
 module.exports = {
-  'root': true, // stops eslint from looking further
   'env': {
     'es2021': true, // support for es2021 features
     'node': true, // support for node
@@ -12,7 +11,6 @@ module.exports = {
     'sourceType': 'module', // be able to parse module files
   },
   'rules': {
-    'max-len': ['error', {'code': 81, 'ignoreComments': false}],
-    'linebreak-style': ['error', 'unix'], // try to change to windows
+    'max-len': ['error', {'code': 70, 'ignoreComments': false}],
   },
 };

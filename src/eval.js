@@ -14,6 +14,7 @@
 
 'use strict';
 
+// eslint-disable-next-line
 const ADMIN_PASSWORD = 'superSecretPassword';
 
 const simpleCalc = (userInput) => {

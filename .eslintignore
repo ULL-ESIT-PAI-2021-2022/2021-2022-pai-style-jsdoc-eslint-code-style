@@ -1,0 +1,2 @@
+// For the VSCode ESLint Plugin this file needs to be in root
+src/eslint/ignored.js
