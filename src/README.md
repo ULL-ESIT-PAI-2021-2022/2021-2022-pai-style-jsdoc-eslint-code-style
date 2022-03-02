@@ -1,4 +1,10 @@
 # Source code
 
-The src directory is home to the actual codebase of the application and the target of our build tools.
-In this directory you should leave all the source code you have developed for your assignment.
+### eval.js
+Used to explain the Dangers of eval()
+
+### eslint
+Used to explain the comments of eslint
+
+### bad-code
+Contains hard to decypher funcion

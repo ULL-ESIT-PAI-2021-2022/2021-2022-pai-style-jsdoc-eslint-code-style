@@ -1,0 +1,23 @@
+{
+  "name": "pai-presentation",
+  "version": "1.0.0",
+  "description": "All files related to the pai presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troppes/pai-presentation.git"
+  },
+  "author": "Jorge Batitsa & Florian Reitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troppes/pai-presentation/issues"
+  },
+  "homepage": "https://github.com/troppes/pai-presentation#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
