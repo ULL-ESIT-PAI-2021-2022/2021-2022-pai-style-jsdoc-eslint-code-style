@@ -14,5 +14,5 @@
 
 'use strict';
 
-// This long comment does not give an error since this file is ignored wit hthe eslintignore file
+// This long comment does not give an error, since this file is ignored with the eslintignore file
 
