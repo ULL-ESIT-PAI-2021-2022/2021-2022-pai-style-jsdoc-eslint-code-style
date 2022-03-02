@@ -1,4 +1,3 @@
-// /* eslint max-len: "warn" */
 /**
  * Universidad de La Laguna
  * Escuela Superior de Ingeniería y Tecnología
