@@ -4,8 +4,8 @@
  * Grado en Ingeniería Informática
  * Programación de Aplicaciones Interactivas
  *
- * @author Jorge Hdez. Batista, Florian Reitz
- * @author
+ * @author Jorge Hdez. Batista
+ * @author Florian Reitz
  * @since Feb 28 2022
  * @desc Documentation
  * This is the way we should comment a header, so all the information is added
