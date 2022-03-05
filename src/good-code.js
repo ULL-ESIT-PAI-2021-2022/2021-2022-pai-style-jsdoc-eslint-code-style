@@ -14,11 +14,16 @@
 
 'use strict';
 
-/* eslint-disable */
-var t = '';
+const goodFunc = (base, exponent) => {
+  let result = 1;
 
-const badFunc = (a,b) => {var r=1,i=0; for(;i<b;i++)r*=a;return r};
-/* eslint-enable */
+  for (let i = 0; i < exponent; i++) {
+    result *= base;
+  }
+
+  return result;
+};
+
 
 /**
   * Checks if the correct number of command line arguments is given
@@ -47,9 +52,9 @@ const convertToNumber = function(message) {
    * main function to create a starting point
    */
 function main() {
-  const a = convertToNumber(readInputs(2, 0));
-  const b = convertToNumber(readInputs(2, 1));
-  console.log(badFunc(a, b));
+  const base = convertToNumber(readInputs(2, 0));
+  const exponent = convertToNumber(readInputs(2, 1));
+  console.log(goodFunc(base, exponent));
 }
 
 if (require.main === module) {
