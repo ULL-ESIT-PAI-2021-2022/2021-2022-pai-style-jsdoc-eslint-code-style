@@ -38,7 +38,7 @@ function setMagicNumber(number) {
 
 
 /**
- * @class Pokémon
+ * @class Pokemon
  * @classdesc Class representing a Pokémon
  * @property {string} name
  * @property {string} [nickname]
@@ -77,7 +77,7 @@ class Pokemon {
 /**
  * @class Pikachu
  * @classdesc Class representing a Pikachu
- * @extends Pokémon
+ * @extends Pokemon
  */
 class Pikachu extends Pokemon {
   // ...
