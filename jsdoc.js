@@ -80,7 +80,7 @@ function setMagicNumber(number) {
 
  */
 
-class Pokemon() {
+class Pokemon {
 
   constructor (pokedex, number, nickname = '') {
 
@@ -134,7 +134,7 @@ class Pokemon() {
 
  */
 
-class Pikachu extends Pokemon() {
+class Pikachu extends Pokemon {
 
   // ...
 
