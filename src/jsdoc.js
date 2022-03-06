@@ -38,28 +38,11 @@ function setMagicNumber(number) {
 
 
 /**
- * @class Pokémon
+ * @class Pokemon
  * @classdesc Class representing a Pokémon
  * @property {string} name
  * @property {string} [nickname]
  */
-<<<<<<< HEAD:jsdoc.js
-
-class Pokemon {
-
-  constructor (pokedex, number, nickname = '') {
-
-    /**
-
-     * Name is a property that contains the name of a Pokémon
-
-     * @type {string}
-
-     * @public
-
-     */
-
-=======
 class Pokemon {
   /**
    * Name is a property that contains the name of a Pokémon
@@ -70,7 +53,6 @@ class Pokemon {
    * @public
    */
   constructor(pokedex, number, nickname = '') {
->>>>>>> a7d4720c44f57ee4d04cb055acc11c71ebad6994:src/jsdoc.js
     this.name = pokedex.name(number);
 
     /**
@@ -95,15 +77,9 @@ class Pokemon {
 /**
  * @class Pikachu
  * @classdesc Class representing a Pikachu
- * @extends Pokémon
+ * @extends Pokemon
  */
-<<<<<<< HEAD:jsdoc.js
-
 class Pikachu extends Pokemon {
-
-=======
-class Pikachu extends Pokemon {
->>>>>>> a7d4720c44f57ee4d04cb055acc11c71ebad6994:src/jsdoc.js
   // ...
   /**
    * Pikachu attacks another pokémon with thunderbolt
